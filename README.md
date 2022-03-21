@@ -1,3 +1,5 @@
+Build a Real-time Log Dashboard with Node and Express
+
 # Node real-time log dashboard
 
 To start the application, in a terminal type: <code>npm start</code>
